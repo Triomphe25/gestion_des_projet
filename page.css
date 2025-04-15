@@ -3,3 +3,7 @@
     margin: auto;
     
 }
+p{
+    color: blue;
+    box-shadow: 2px;
+}
